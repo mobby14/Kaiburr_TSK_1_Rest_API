@@ -1,12 +1,12 @@
 # Kaiburr_TSK_1_Rest_API
 
-## 📋 Project Overview
+## Project Overview
 
 A **Spring Boot-based REST API** for task management with shell command execution capabilities, featuring MongoDB integration and comprehensive security measures.
 
 ---
 
-## 🏗️ Architecture & Design
+## Architecture & Design
 
 ### **Technology Stack**
 - **Framework**: Spring Boot 3.2.0
@@ -23,7 +23,7 @@ A **Spring Boot-based REST API** for task management with shell command executio
 
 ---
 
-## 📁 Project Structure Analysis
+## Project Structure Analysis
 
 ### **Core Components**
 
@@ -37,9 +37,9 @@ A **Spring Boot-based REST API** for task management with shell command executio
 
 ---
 
-## 🔧 Detailed Component Analysis
+## Detailed Component Analysis
 
-### **1. TaskController.java** ⭐
+### **1. TaskController.java** 
 **Status**: ✅ **Well Implemented**
 
 #### **Key Features:**
